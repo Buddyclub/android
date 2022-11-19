@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "108084282376",
+    "project_id": "budyclub-e8c2d",
+    "storage_bucket": "budyclub-e8c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108084282376:android:f386c2fb8545631facbdbd",
+        "android_client_info": {
+          "package_name": "com.budyclub.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108084282376-k0v60kfnhs4spfiik7p73o51n4boejrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budyclub.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "108084282376-88ol4s2kte6r450v098bqbrejbij0g1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPTF8O6EEu4O0E_fPj57LnPoiSZPv-s0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108084282376-88ol4s2kte6r450v098bqbrejbij0g1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
